@@ -134,7 +134,7 @@ run().catch(console.dir);
 
 
 app.get('/', (req, res) => {
-  res.send('Brand shop server is running')
+  res.send('Brand shop server is running');
 });
 
 
