@@ -139,5 +139,5 @@ app.get('/', (req, res) => {
 
 
 app.listen(port, () => {
-  console.log(`Brand shop server is running on port : ${port}`);
+  console.log(`Brand shop server is running on port : ${port}`)
 })
